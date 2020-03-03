@@ -1,5 +1,4 @@
 import React from "react";
-import STORE from "./store";
 import Participant from "./Participant";
 
 function List(props) {

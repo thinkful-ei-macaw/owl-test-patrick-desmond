@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import STORE from "./store";
+import "./list.css";
 
 ReactDOM.render(<App store={STORE} />, document.getElementById("root"));
 
