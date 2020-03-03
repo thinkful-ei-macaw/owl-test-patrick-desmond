@@ -1,6 +1,8 @@
 import React from "react";
 import "./App.css";
 import List from "./list";
+import Stage from "./stage";
+import Chat from "./chat";
 
 function App(props) {
   return (
